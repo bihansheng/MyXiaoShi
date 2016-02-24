@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="G:\192.168.1.245\trunk\code\Android\andorid-MyApplication\MyApplication\app\libs\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8">
+        <dex dex="G:\192.168.1.245\trunk\code\Android\andorid-MyApplication\MyApplication\app\build\intermediates\pre-dexed\debug\gson-2.2.4-05b13032a60b82ca8c661e9264c5b8177f1cebce.jar" />
+    </item>
+    <item
+        jar="G:\MyApplication\app\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a13f8fe2c278737e2f0b6fcf00f6b2ae4034aacf">
+        <dex dex="G:\MyApplication\app\build\intermediates\pre-dexed\debug\android-support-v4-a499f5f2b4b33872fec3db6aa2393c6a1eb202d4.jar" />
+    </item>
+    <item
+        jar="G:\MyApplication\app\libs\httpmime-4.1.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e70d34d98f7f7f3b2b92105b9f2fe2a7a7184461">
+        <dex dex="G:\MyApplication\app\build\intermediates\pre-dexed\debug\httpmime-4.1.3-224b0c2cd698f288d08b1cc8221bfeed321be181.jar" />
+    </item>
+    <item
+        jar="G:\MyApplication\app\build\intermediates\exploded-aar\facialApp-2.09\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7715baa7c60fc7d19e113f512dbdabaaf2d93016">
+        <dex dex="G:\MyApplication\app\build\intermediates\pre-dexed\debug\classes-b9c6839df2f65ca57523382d45dae4eae7fd2ab3.jar" />
+    </item>
+    <item
+        jar="G:\192.168.1.245\trunk\code\Android\andorid-MyApplication\MyApplication\app\libs\httpmime-4.1.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e70d34d98f7f7f3b2b92105b9f2fe2a7a7184461">
+        <dex dex="G:\192.168.1.245\trunk\code\Android\andorid-MyApplication\MyApplication\app\build\intermediates\pre-dexed\debug\httpmime-4.1.3-6f30fd1d49635a50d37f10079d14f1dcd63e6791.jar" />
+    </item>
+    <item
+        jar="G:\MyApplication\app\libs\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8">
+        <dex dex="G:\MyApplication\app\build\intermediates\pre-dexed\debug\gson-2.2.4-d0da1e7c7cef68885d513c6f3a93cf9a0ef2d802.jar" />
+    </item>
+    <item
+        jar="G:\192.168.1.245\trunk\code\Android\andorid-MyApplication\MyApplication\app\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a13f8fe2c278737e2f0b6fcf00f6b2ae4034aacf">
+        <dex dex="G:\192.168.1.245\trunk\code\Android\andorid-MyApplication\MyApplication\app\build\intermediates\pre-dexed\debug\android-support-v4-c9f7acc47e054ddc127b23da11f82cc92e597930.jar" />
+    </item>
+    <item
+        jar="G:\192.168.1.245\trunk\code\Android\andorid-MyApplication\MyApplication\app\build\intermediates\exploded-aar\OpenCV2411\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4f33c1a16ca06b5526f876b923d53b2c96b7ceeb">
+        <dex dex="G:\192.168.1.245\trunk\code\Android\andorid-MyApplication\MyApplication\app\build\intermediates\pre-dexed\debug\classes-76cbdc1e1cfd6fc8dc11623eb226c1cc215b1190.jar" />
+    </item>
+    <item
+        jar="G:\MyApplication\app\build\intermediates\exploded-aar\OpenCV2411\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4f33c1a16ca06b5526f876b923d53b2c96b7ceeb">
+        <dex dex="G:\MyApplication\app\build\intermediates\pre-dexed\debug\classes-3aaf9f27f84c83c49922ad08b1e52f03eba2dd64.jar" />
+    </item>
+    <item
+        jar="G:\192.168.1.245\trunk\code\Android\andorid-MyApplication\MyApplication\app\build\intermediates\exploded-aar\facialApp-2.09\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7715baa7c60fc7d19e113f512dbdabaaf2d93016">
+        <dex dex="G:\192.168.1.245\trunk\code\Android\andorid-MyApplication\MyApplication\app\build\intermediates\pre-dexed\debug\classes-b723d6a497dccb40302512420ab792a43ff36df8.jar" />
+    </item>
+
+</items>

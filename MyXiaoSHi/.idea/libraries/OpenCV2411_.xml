@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="OpenCV2411-">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/OpenCV2411/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/OpenCV2411/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

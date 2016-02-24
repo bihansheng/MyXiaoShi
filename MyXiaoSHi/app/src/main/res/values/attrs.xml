@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="HoloCircleSeekBar">
+        <attr name="wheel_size" format="integer" />
+        <attr name="pointer_size" format="integer" />
+        <attr name="max" format="integer"></attr>
+        <attr name="show_text" format="boolean"></attr>
+        <attr name="start_angle" format="integer"></attr>
+        <attr name="end_angle" format="integer"></attr>
+        <attr name="text_size" format="integer"></attr>
+        <attr name="init_position" format="integer"></attr>
+        <attr name="color" format="string"></attr>
+        <attr name="wheel_active_color" format="string"></attr>
+        <attr name="wheel_unactive_color" format="string"></attr>
+        <attr name="pointer_color" format="string"></attr>
+        <attr name="pointer_halo_color" format="string"></attr>
+        <attr name="text_color" format="string"></attr>
+    </declare-styleable>
+    <declare-styleable name="CircleProgressBar">
+        <attr name="maxProgress" format="integer" /> <!-- 进度条最大值 -->
+        <attr name="fill" format="boolean" /> <!-- 是否填充圆形区域 -->
+        <attr name="Paint_Width" format="integer" /> <!-- 画笔宽度，填充模式下无效，会被重置为0 -->
+        <attr name="Paint_Color" format="integer" /> <!-- 画笔颜色 -->
+        <attr name="Inside_Interval" format="integer" /> <!-- 圆形区域向里缩进的距离 -->
+    </declare-styleable>
+    <declare-styleable name="CropImageView">
+        <attr name="guidelines">
+            <enum name="on" value="2" />
+            <enum name="onTouch" value="1" />
+            <enum name="off" value="0" />
+        </attr>
+        <attr name="fixAspectRatio" format="boolean" />
+        <attr name="aspectRatioX" format="integer" />
+        <attr name="aspectRatioY" format="integer" />
+        <attr name="imageResource" format="reference" />
+    </declare-styleable>
+    <declare-styleable name="CountDownTextView">
+        <attr name="text" format="string" /> <!-- 设置文字 -->
+        <attr name="textColor" format="color" /> <!-- 文字颜色 -->
+        <attr name="textSize" format="dimension" /> <!-- 字体大小 -->
+        <attr name="SingleBg_Width" format="dimension" /> <!-- 宽 -->
+        <attr name="SingleBg_Height" format="dimension" /> <!-- 高 -->
+    </declare-styleable>
+    <!-- GradientView class attributes -->
+    <!-- =============================== -->
+    <declare-styleable name="GradientView">
+        <attr name="StringToShow" format="reference" />
+        <attr name="TextSize" format="dimension" />
+        <attr name="TextColor" format="integer" />
+        <attr name="SlideColor" format="integer" />
+    </declare-styleable>
+
+</resources>

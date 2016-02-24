@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">小视人脸识别</string>
+
+    <string name="loading_msg">正在上传中&#8230;</string>
+
+    <string name="check_sd">图片未生成，请检查sd卡</string>
+</resources>
